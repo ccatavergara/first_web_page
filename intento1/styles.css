@@ -1,0 +1,13 @@
+p {
+    color: darkgrey;
+}
+body {
+    background-color: lightgray;
+}
+.text {
+    color: red;
+}
+#smiley {
+    width: 300px;
+    height:auto;
+}
